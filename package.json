@@ -1,0 +1,25 @@
+{
+  "name": "aurora-websocket-server",
+  "version": "1.0.0",
+  "description": "How to start it:",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozio/aurora-websocket-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozio/aurora-websocket-server/issues"
+  },
+  "homepage": "https://github.com/ozio/aurora-websocket-server#readme",
+  "dependencies": {
+    "cli-highlight": "^1.2.3",
+    "moment": "^2.20.1",
+    "ws": "^4.0.0"
+  }
+}
