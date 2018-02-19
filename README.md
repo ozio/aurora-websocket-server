@@ -1,4 +1,4 @@
-#### WebSocket server for [Aurora Browser Extension](aurora-browser-extension).
+#### WebSocket server for [Aurora Browser Extension](https://github.com/ozio/aurora-browser-extension).
 
 How to start it:
 
